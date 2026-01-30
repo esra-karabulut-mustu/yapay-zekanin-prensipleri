@@ -76,7 +76,6 @@ print(result)
 ├── classifier.py              # Ana sınıflandırma sistemi
 ├── pyproject.toml             # uv proje yapılandırması
 ├── docs/
-│   ├── final_sinav.md         # Sınav sorusu
 │   ├── solution_documentation.md  # Teknik dokümantasyon
 │   ├── v1_f_IT_Department_Sorunlar_.xlsx  # Girdi verisi
 │   └── classified_output.xlsx # Çıktı verisi
